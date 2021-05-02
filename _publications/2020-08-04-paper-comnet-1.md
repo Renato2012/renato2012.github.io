@@ -7,7 +7,7 @@ excerpt: 'This paper is about an L2 communication protocol for IoT programmable 
 date: 2020-08-04
 venue: 'Computer Networks'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S1389128620301195'
-citation: 'Madureira, A. L. R., Araújo, F. R. C., Sampaio, L. N. (2020). &quot;On supporting IoT data aggregation through programmable data planes.&quot; <i>In Computer Networks</i>. (pp. 107330). Elsevier.'
+citation: 'Madureira, A. L. R., <b>Araújo, F. R. C.</b>, Sampaio, L. N. (2020). &quot;On supporting IoT data aggregation through programmable data planes.&quot; <i>In Computer Networks</i>. (pp. 107330). Elsevier.'
 ---
 This paper is about an L2 communication protocol for IoT programmable data planes that supports data aggregation.
 

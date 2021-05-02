@@ -8,7 +8,7 @@ excerpt: 'This paper is about the use of virtualization for teaching network inf
 date: 2015-11-16
 venue: 'VI Escola Regional de Informática de Mato Grosso (ERI-MT)'
 paperurl: 'http://anaiserimt.ic.ufmt.br/index.php/erimt/article/view/7'
-citation: 'Araújo, F. R. C. (2015). &quot;Uso de Ambientes Virtualizados para o Ensino de Infraestrutura de Redes.&quot; <i>In VI Escola Regional de Informática de Mato Grosso (ERI-MT)</i>. (pp. 208–210). Cuiabá, MT: SBC.'
+citation: '<b>Araújo, F. R. C.</b> (2015). &quot;Uso de Ambientes Virtualizados para o Ensino de Infraestrutura de Redes.&quot; <i>In VI Escola Regional de Informática de Mato Grosso (ERI-MT)</i>. (pp. 208-210). Cuiabá, MT: SBC.'
 ---
 This paper is about the use of virtualization for teaching network infrastructures.
 

@@ -7,7 +7,7 @@ excerpt: 'This paper proposes two techniques to evacuate data from threatened Da
 date: 2020-04-29
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2005.01461'
-citation: 'Araújo, F. R. C. (2020). &quot;Evacuação de Dados em Nuvens Ópticas com base no SLA sob Cenário de Desastre.&quot; <i>In arXiv</i>.'
+citation: '<b>Araújo, F. R. C.</b> (2020). &quot;Evacuação de Dados em Nuvens Ópticas com base no SLA sob Cenário de Desastre.&quot; <i>In arXiv</i>.'
 ---
 This paper proposes two techniques to evacuate data from threatened Data Centers (DCs) to those who are outside the risk zone of the attack.
 

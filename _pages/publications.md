@@ -14,7 +14,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{ author.googlescholar }}" target="_blank">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{ author.googlescholar }}" target="\_blank">my Google Scholar profile</a>.</u>
 {% endif %}
 
 <!-- I comment this. Origin code.

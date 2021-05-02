@@ -40,7 +40,8 @@
     {% comment %} split post.citation in 3 parts; after turn strong my author name; and shows only first and last. {% endcomment %}
 
     {% assign citation = post.citation | split: "&quot;" %}
-    {% assign field_authors = citation.first | replace_first: "Araújo, F. R. C.", "<strong>Araújo, F. R. C.</strong>" %}
+    {% comment %} {% assign field_authors = citation.first | replace_first: "Araújo, F. R. C.", "<strong>Araújo, F. R. C.</strong>" %} {% endcomment %}
+    {% assign field_authors = citation.first %}
     {% assign field_venue = citation.last %}
 
     {% capture info %}

@@ -8,7 +8,7 @@ excerpt: 'This paper is about advanced OpenNebula software settings.'
 date: 2014-10-23
 venue: 'IV Encontros Universitários da UFC - Campus Quixadá'
 paperurl: 'https://www.quixada.ufc.br/wp-content/uploads/2015/06/Encontros-Universit%C3%A1rios-2014.pdf#page=130'
-citation: 'de Sousa, F. P. O., Araújo, F. R. C., Rego, P. A. L. (2014). &quot;Habilitando Diferentes Visões e Cotas de Usuário no OpenNebula.&quot; <i>In IV Encontros Universitários da UFC - Campus Quixadá</i>. (pp. 130-133). Quixadá, CE: UFC.'
+citation: 'de Sousa, F. P. O., <b>Araújo, F. R. C.</b>, Rego, P. A. L. (2014). &quot;Habilitando Diferentes Visões e Cotas de Usuário no OpenNebula.&quot; <i>In IV Encontros Universitários da UFC - Campus Quixadá</i>. (pp. 130-133). Quixadá, CE: UFC.'
 ---
 This paper is about advanced OpenNebula software settings.
 
