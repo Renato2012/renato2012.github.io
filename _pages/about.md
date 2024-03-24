@@ -10,9 +10,11 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the [Federal University of Bahia](https://pgcomp.ufba.br){:target="\_blank"}. I am advised by [Prof. Leobino Sampaio](https://sites.google.com/view/leobino){:target="\_blank"} in the [INSERT Research Group](https://insert-lab.netlify.app){:target="\_blank"}. Where I also received an M.Sc. degree in Computer Science in July 2018.
 
+I am also an assistant professor of computer science at the [State University of Ceará](https://www.uece.br/mombaca/){:target="\_blank"}.
+
 My research, during my M.Sc., focused on mobility support in wireless environments of the Named Data Networking (NDN) architecture. Currently, my research interests include secure and efficient packet forwarding at the edge of the NDN networks.
 
-Before that, I received a B.S. degree in Computer Networks from the [Federal University of Ceará](https://www.quixada.ufc.br){:target="\_blank"} in December 2014. During my undergraduate years, I was advised by [Prof. Paulo Rego](https://cc.ufc.br/curso/corpo-docente/pauloalr){:target="\_blank"}. My research during this time focused on opportunistic private clouds.
+Before that, I received a B.S. degree in Computer Networks from the [Federal University of Ceará](https://www.quixada.ufc.br){:target="\_blank"} in December 2014. During my undergraduate years, I was advised by [Prof. Paulo Rego](https://ieeexplore.ieee.org/author/38242873800){:target="\_blank"}. My research during this time focused on opportunistic private clouds.
 
 For more information, please visit my [Lattes curriculum](http://lattes.cnpq.br/3102385411862897){:target="\_blank"} in Portuguese.
 
