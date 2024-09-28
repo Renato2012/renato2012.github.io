@@ -49,7 +49,7 @@ Latest five publications-->
     {% endif %}
     {% if post.selected %} <!-- added selected: 'true' in publications on _publications .md files. -->
       {% include archive-single-pubs.html %}
-      {% capture %}{% increment selected_pub %}{% endcapture %} <!-- increment var -->
+      {% capture increment selected_pub %}{% endcapture %} <!-- increment var -->
     {% endif %}
   {% endfor %}</ul>
 
