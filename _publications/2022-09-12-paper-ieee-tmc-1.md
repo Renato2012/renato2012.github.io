@@ -7,6 +7,7 @@ excerpt: 'This work introduces iFLAT, a multicriteria-based forwarding strategy 
 date: 2022-09-12
 venue: 'IEEE Transactions on Mobile Computing'
 paperurl: 'https://ieeexplore.ieee.org/document/9888056'
+selected: 'true'
 citation: '<b>Araújo, F. R. C.</b>, Madureira, A. L. R., Sampaio, L. N. (2022). &quot;A Multicriteria-Based Forwarding Strategy for Interest Flooding Mitigation on Named Data Wireless Networking.&quot; <i>In IEEE Transactions on Mobile Computing</i>. (pp. 7000-7013). IEEE.'
 ---
 This work introduces iFLAT, a multicriteria-based forwarding strategy for interest flooding mitigation on named data wireless networking.

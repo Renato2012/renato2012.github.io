@@ -18,7 +18,7 @@ Before that, I received a B.S. degree in Computer Networks from the [Federal Uni
 
 For more information, please visit my [Lattes curriculum](http://lattes.cnpq.br/3102385411862897){:target="\_blank"} in Portuguese.
 
-Latest five publications
+Last five selected publications
 ------
 <!--
   <ul>{% for post in site.publications reversed %}
@@ -26,7 +26,10 @@ Latest five publications
   {% endfor %}</ul>
 -->
 
-<!-- I added this. Show only last-n-publications -->
+<!-- I added this. Show only last-n-publications 
+Latest five publications-->
+
+<!--
   {% assign last-n-pub = 5 %}
   <ul>{% for post in site.publications reversed %}
     {% if forloop.index0 == last-n-pub %}
@@ -34,9 +37,25 @@ Latest five publications
     {% endif %}
     {% include archive-single-pubs.html %}
   {% endfor %}</ul>
+-->
+
+
+<!-- I added this. Show only latest five selected publications -->
+  {% assign last_n_pub = 5 %}
+  {% capture selected_pub = 0 %}{% endcapture %}
+  <ul>{% for post in site.publications reversed %}
+    {% if selected_pub == last_n_pub %}
+      {% break %}
+    {% endif %}
+    {% if post.selected %} <!-- added selected: 'true' in publications on _publications .md files. -->
+      {% include archive-single-pubs.html %}
+      {% capture %}{% increment selected_pub %}{% endcapture %} <!-- increment var -->
+    {% endif %}
+  {% endfor %}</ul>
 
 
 <!-- Refs:
 [1] https://shopify.github.io/liquid/tags/iteration/
 [2] https://shopify.dev/docs/themes/liquid/reference/objects/for-loops
 -->
+

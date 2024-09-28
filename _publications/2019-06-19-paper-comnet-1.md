@@ -7,6 +7,7 @@ excerpt: 'This paper is about producer mobility support in Named Data Networking
 date: 2019-06-19
 venue: 'Computer Networks'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1389128618311599'
+selected: 'true'
 citation: '<b>Araújo, F. R. C.</b>, Sousa, A. M., Sampaio, L. N. (2019). &quot;SCaN-Mob: An opportunistic caching strategy to support producer mobility in named data wireless networking.&quot; <i>In Computer Networks</i>. (pp. 62-74). Elsevier.'
 ---
 This paper is about producer mobility support in Named Data Networking (NDN).

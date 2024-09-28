@@ -7,6 +7,7 @@ excerpt: 'This paper presents a network architecture based on the Fabric and NDN
 date: 2021-03-01
 venue: 'IEEE Transactions on Network and Service Management'
 paperurl: 'https://ieeexplore.ieee.org/document/9292087'
+selected: 'true'
 citation: 'Madureira, A. L. R., <b>Araújo, F. R. C.</b>, Araújo, G. B., Sampaio, L. N. (2021). &quot;NDN Fabric: Where the Software-Defined Networking Meets the Content-Centric Model.&quot; <i>In IEEE Transactions on Network and Service Management</i>. (pp. 374-387). IEEE.'
 ---
 This paper presents a network architecture based on the Fabric and NDN model, which aims to efficient packets forwarding at the core of the network using P4 technology.
